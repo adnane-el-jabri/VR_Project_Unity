@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cd30a632e9107c7469eb06390fffa737
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Luciole
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 141b80c8894b0c445a3bb8c7c7c2650b, type: 3}
+  - {fileID: 12800000, guid: da3ea179495d2694ab9305194523c434, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
